@@ -1,2 +1,3 @@
 # CryptoChief
-Public-domain library &amp; tools for cryptography.
+Public-domain library & tools for cryptography.
+  
