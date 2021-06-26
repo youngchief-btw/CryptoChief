@@ -2,5 +2,6 @@
 using namespace std;
 
 int main() {
-    CryptoChief::hash(["hi"], ["SHA3-512"]);
+    // return CryptoChief::hash(["hi"], ["SHA3-512"]);
+    return 0;
 }
