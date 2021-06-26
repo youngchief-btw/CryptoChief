@@ -4,6 +4,7 @@ extern "C" {
 
 namespace CryptoChief {
     #include "hash.h"
+    #include "encrypt.h"
 }
 
 #ifdef __cplusplus /* If this is a C++ compiler, end C linkage */
